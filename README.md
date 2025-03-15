@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm an 18-year-old front-end developer with a passion for technology, aerospace, and cars. I love building web applications, learning about physics and engineering, and working on projects that blend software with real-world impact.
+Hi there! I'm an 18-year-old front-end developer with a passion for technology, aerospace. I love building web applications, learning about physics and engineering, and working on projects that blend software with real-world impact.
 
 
 ## 🌐 Socials:
