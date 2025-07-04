@@ -1,25 +1,13 @@
-### 👋 Hi, I'm [Your Name]  
-**Self-Taught Web Developer** | Passionate about building modern, responsive web applications  
+### 👋 Hi, I'm Mohamed  
+**Self-Taught Web Developer** | Passionate about building web applications  
 
-#### 🛠️ Technologies & Skills  
-- **Frontend**: React, HTML5, CSS3, JavaScript (ES6+)  
-- **Styling**: Bootstrap, Tailwind CSS  
-- **Backend**: Python, Flask  
-- **Currently Learning**: Node.js, C  
 
 #### 🔭 Current Focus  
 - Expanding my backend knowledge with Node.js  
 - Exploring low-level programming with C  
 - Building full-stack projects to solidify my skills  
+  
 
-#### 🌱 Philosophy  
-*"Learn by doing"* – I believe in continuous improvement through hands-on projects, open-source contributions, and community collaboration.  
-
-#### 📫 Let's Connect  
-- Portfolio: [YourPortfolioLink.com](https://)  
-- LinkedIn: [Your Name](https://linkedin.com/in/)  
-- Twitter: [@YourHandle](https://twitter.com/)
-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-chafik-809206345/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mo.chafik26@gmail.com) 
 
