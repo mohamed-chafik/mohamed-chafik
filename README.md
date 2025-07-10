@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Mohamed  
-**Self-Taught Web Developer** | Passionate about building web applications  
+**Self-Taught Web Developer** 
 
 
 #### 🔭 Current Focus  
