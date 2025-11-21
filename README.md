@@ -3,8 +3,8 @@
 
 
 #### 🔭 Current Focus  
-- Expanding my backend knowledge with Node.js  
-- Exploring low-level programming with C  
+- Expanding my backend knowledge with Django
+- Exploring low-level programming with C++
 - Building full-stack projects to solidify my skills  
   
 
