@@ -12,7 +12,3 @@ Minimalist self-taught software engineer focused on web development.<br>I learn 
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohamed-Chafik&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Chafik&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohamed-Chafik&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
