@@ -1,5 +1,5 @@
 # 💫 About Me:
-Minimalist self-taught software engineer focused on web development.<br>I learn by building, experimenting, and keeping things simple.<br>Always improving through projects and consistent learning.
+self-taught software engineer.<br>I learn by building, experimenting, and keeping things simple.<br>Always improving through projects and consistent learning.
 
 
 ## 🌐 Socials:
